@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Larrabetzu</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="action_settings">Hobespenak</string>
+    <string name="page_title_section_news">Berriak</string>
+    <string name="page_title_section_agenda">Agenda</string>
+    <string name="page_title_section_associations">Elkarteak</string>
 </resources>
